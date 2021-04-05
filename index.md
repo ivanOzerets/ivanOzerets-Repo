@@ -1,10 +1,12 @@
-### Ivan Ozerets's Page
+# Ivan Ozerets's Page
 
-# Pictures
+##### Pictures
 
-![](Wimbledon_04.jpg)
-![](UCSD_funnyImage1.png)
-![bear](bear.jpg)
+![Wimbledon](Wimbledon_04.jpg)
+![Funny bear image](bear.jpg)
+![meme](UCSD_funnyImage1.png)
+
+##### Description
 
 Hello,
 
@@ -17,10 +19,12 @@ I am decently proficient in the following programming languages:
 
 *Trying to get into python on my own time recently*
 
-# Some fun facts about me
+##### Some fun facts about me
 
 My favorite movie: `Avatar` by James Cameron.
+
 My favorite song is some russian song, here's a link: [some sweet russian song](https://www.youtube.com/watch?v=8dVtBAWbZ14).
+
 My favotite food is Borscht (Russain soup).
 
 One of my favorite quotes:
