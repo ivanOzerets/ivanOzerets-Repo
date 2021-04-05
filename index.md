@@ -4,7 +4,7 @@
 
 ![](Wimbledon_04.jpg)
 ![](UCSD_funnyImage1.png)
-![](bear.jpg)
+![bear](bear.jpg)
 
 Hello,
 
