@@ -37,7 +37,7 @@ A relative link to this page: [this same exact page](index.md)
 
 My current to-do list:
 
-- [X] Create a to-do list
-- [X] Check off first thing on to-do list
-- [X] Realise you have already completed two things on your to-do list
-- [ ] Reward yourself with a nap
+- [X]  Create a to-do list
+- [X]  Check off first thing on to-do list
+- [X]  Realise you have already completed two things on your to-do list
+- [ ]  Reward yourself with a nap
